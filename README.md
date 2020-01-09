@@ -1,3 +1,3 @@
 # VESM2VT05BU
 
-## verkefni [hér]() 
+## verkefni í wiki
